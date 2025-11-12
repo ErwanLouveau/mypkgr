@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of mypkgr is to …
+The goal of mypkgr is to find another time the love of life
 
 ## Installation
 
