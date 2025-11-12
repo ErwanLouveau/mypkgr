@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/ErwanLouveau/mypkgr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ErwanLouveau/mypkgr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypkgr is to learn how to use R correctly. “kikou erwan le
