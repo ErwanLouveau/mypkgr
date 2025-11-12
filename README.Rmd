@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypkgr is to find another time the love of life
+The goal of mypkgr is to learn how to use R correctly.
 
 ## Installation
 
