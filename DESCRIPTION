@@ -12,5 +12,5 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Imports: mvtnorm
-URL: https://github.com/ErwanLouveau/mypkgr
+URL: https://github.com/ErwanLouveau/mypkgr, https://erwanlouveau.github.io/mypkgr/
 BugReports: https://github.com/ErwanLouveau/mypkgr/issues
