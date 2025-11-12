@@ -7,11 +7,7 @@
 
 <!-- badges: end -->
 
-<<<<<<< HEAD
-The goal of mypkgr is to find another time the love of life
-=======
-The goal of mypkgr is to learn how to use R correctly. 
->>>>>>> f998ce7baf90c3962d167e4531e988c62dab8f64
+The goal of mypkgr is to learn how to use R correctly.
 
 ## Installation
 
