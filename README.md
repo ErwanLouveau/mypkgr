@@ -7,7 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of mypkgr is to learn how to use R correctly.
+The goal of mypkgr is to learn how to use R correctly. “kikou erwan le
+mec aigri”. Lise Gamboa, 12 novembre 2025.
 
 ## Installation
 
