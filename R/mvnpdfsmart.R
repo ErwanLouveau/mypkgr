@@ -1,3 +1,5 @@
+#' mvnpdfsmart
+#'
 #' @param x
 #'
 #' @param mean
