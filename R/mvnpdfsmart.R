@@ -1,12 +1,16 @@
 #' mvnpdfsmart
 #'
-#' @param x
+#' @description
+#' improve function of mvnpdf. Calculates the multivariate distribution of a matrix
 #'
-#' @param mean
-#' @param varcovM
-#' @param Log
+#' @param x numeric matrix.
+#' @param mean vector containing each mean of x's columns.
+#' @param varcovM variance covariance matrix of x.
+#' @param Log logical; if TRUE return the logarithm of multivariate distribution.
 #'
-#' @rdname mvnpdf
+#' @returns a list containing values of x matrix and values of multivariate distribution calculated
+#'
+#' @rdname mvnpdfsmart
 #' @export
 mvnpdfsmart <- function(x, mean =  rep(0, nrow(x)),
                         varcovM = diag(nrow(x)), Log = TRUE) {
