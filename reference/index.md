@@ -4,5 +4,11 @@
 
 - [`mvnpdf()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdf.md)
   : mvnpdf
+- [`mvnpdfoptim()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfoptim.md)
+  : mvnpdfoptim
+- [`mvnpdfsmart()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfsmart.md)
+  : mvnpdfsmart
+- [`my_dmvnorm()`](https://erwanlouveau.github.io/mypkgr/reference/mydmvnorm.md)
+  : mydmvnorm
 - [`plot(`*`<mvnpdf>`*`)`](https://erwanlouveau.github.io/mypkgr/reference/plot.mvnpdf.md)
   : Plot of the mvnpdf function
