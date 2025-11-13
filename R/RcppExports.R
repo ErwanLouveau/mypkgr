@@ -5,6 +5,20 @@ invC <- function(M) {
     .Call(`_mypkgr_invC`, M)
 }
 
+#'@rdname mvnpdfoptimC
+#'@export
+#'
+mvnpdfoptimC <- function(x, mean, varcovM, Log = TRUE) {
+    .Call(`_mypkgr_mvnpdfoptimC`, x, mean, varcovM, Log)
+}
+
+#'@rdname mvnpdfsmartC
+#'@export
+#'
+mvnpdfsmartC <- function(x, mean, varcovM, Log = TRUE) {
+    .Call(`_mypkgr_mvnpdfsmartC`, x, mean, varcovM, Log)
+}
+
 timesTwo <- function(x) {
     .Call(`_mypkgr_timesTwo`, x)
 }
