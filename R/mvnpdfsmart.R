@@ -1,3 +1,9 @@
+#' @param x
+#'
+#' @param mean
+#' @param varcovM
+#' @param Log
+#'
 #' @rdname mvnpdf
 #' @export
 mvnpdfsmart <- function(x, mean =  rep(0, nrow(x)),
