@@ -4,9 +4,18 @@
 \name{mypkgr-package}
 \alias{mypkgr}
 \alias{mypkgr-package}
-\title{mypkgr: What the Package Does (One Line, Title Case)}
+\title{mypkgr: mypkgr}
 \description{
 What the package does (one paragraph).
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ErwanLouveau/mypkgr}
+  \item \url{https://erwanlouveau.github.io/mypkgr/}
+  \item Report bugs at \url{https://github.com/ErwanLouveau/mypkgr/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Erwan Louveau \email{erwan.louveau@u-bordeaux.fr}
