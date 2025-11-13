@@ -22,11 +22,11 @@ mvnpdf <- function(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log=TRUE)
   Rinv = solve(varcovM)
   LogDetvarcovM = log(det(varcovM))
 
-  y = rep(NA, n)
+  y = NULL
 
   for (i in 1:n){
     yj = -p/2 * log(2*pi) - 0.5 * LogDetvarcovM - 0.5 * t(x0[, i]) %*% Rinv %*% x0[, i]
-    y[j] = yj
+    y = c(y, yj)
   }
 
   if (!Log){
