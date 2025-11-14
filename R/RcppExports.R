@@ -5,6 +5,13 @@ invC <- function(M) {
     .Call(`_mypkgr_invC`, M)
 }
 
+#'mvnpdfoptimC
+#'
+#'@param x matrix x
+#'@param mean column vector of x's mean
+#'@param varcovM matrix of x's variance-covariance
+#'@param Log boolean. If true, return log values of x's multivariate normal distribution
+#'
 #'@rdname mvnpdfoptimC
 #'@export
 #'
@@ -12,6 +19,13 @@ mvnpdfoptimC <- function(x, mean, varcovM, Log = TRUE) {
     .Call(`_mypkgr_mvnpdfoptimC`, x, mean, varcovM, Log)
 }
 
+#'mvpdfsmartC
+#'
+#'@param x matrix x
+#'@param mean column vector of x's mean
+#'@param varcovM matrix of x's variance-covariance
+#'@param Log boolean. If true, return log values of x's multivariate normal distribution
+#'
 #'@rdname mvnpdfsmartC
 #'@export
 #'

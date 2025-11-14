@@ -5,6 +5,13 @@ using namespace arma;
 // [[Rcpp::depends(RcppArmadillo)]]
 const double log2pi2 = log(2.0 * M_PI)/2.0;
 
+//'mvnpdfoptimC
+//'
+//'@param x matrix x
+//'@param mean column vector of x's mean
+//'@param varcovM matrix of x's variance-covariance
+//'@param Log boolean. If true, return log values of x's multivariate normal distribution
+//'
 //'@rdname mvnpdfoptimC
 //'@export
 //'

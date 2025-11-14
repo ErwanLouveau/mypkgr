@@ -2,6 +2,13 @@
 using namespace arma;
 // [[Rcpp::depends(RcppArmadillo)]]
 
+//'mvpdfsmartC
+//'
+//'@param x matrix x
+//'@param mean column vector of x's mean
+//'@param varcovM matrix of x's variance-covariance
+//'@param Log boolean. If true, return log values of x's multivariate normal distribution
+//'
 //'@rdname mvnpdfsmartC
 //'@export
 //'
