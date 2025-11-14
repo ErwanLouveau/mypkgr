@@ -7,7 +7,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/ErwanLouveau/mypkgr/blob/master/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/ErwanLouveau/mypkgr/blob/v0.0.0.0000/DESCRIPTION)
 
 Louveau E (2025). *mypkgr: mypkgr*. R package version 0.0.0.0000,
 <https://github.com/ErwanLouveau/mypkgr>.
