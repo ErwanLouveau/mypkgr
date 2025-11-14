@@ -12,6 +12,7 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Imports: 
+    future.apply,
     mvtnorm,
     Rcpp
 URL: https://github.com/ErwanLouveau/mypkgr, https://erwanlouveau.github.io/mypkgr/
