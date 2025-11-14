@@ -11,6 +11,7 @@
 - [`mvnpdfoptimC()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfoptimC.md)
   : mvnpdfoptimC
 - [`mvnpdfsmart()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfsmart.md)
+  [`mvnpdfsmart_par()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfsmart.md)
   : mvnpdfsmart
 - [`mvnpdfsmartC()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfsmartC.md)
   : mvpdfsmartC

@@ -7,6 +7,8 @@ a matrix
 
 ``` r
 mvnpdfsmart(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
+
+mvnpdfsmart_par(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
 ```
 
 ## Arguments
@@ -28,6 +30,9 @@ mvnpdfsmart(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
   logical; if TRUE return the logarithm of multivariate distribution.
 
 ## Value
+
+a list containing values of x matrix and values of multivariate
+distribution calculated
 
 a list containing values of x matrix and values of multivariate
 distribution calculated
