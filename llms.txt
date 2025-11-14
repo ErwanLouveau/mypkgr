@@ -32,8 +32,12 @@ library(mypkgr)
   : mvnpdf_invC
 - [`mvnpdfoptim()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfoptim.md)
   : mvnpdfoptim
+- [`mvnpdfoptimC()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfoptimC.md)
+  : mvnpdfoptimC
 - [`mvnpdfsmart()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfsmart.md)
   : mvnpdfsmart
+- [`mvnpdfsmartC()`](https://erwanlouveau.github.io/mypkgr/reference/mvnpdfsmartC.md)
+  : mvpdfsmartC
 - [`my_dmvnorm()`](https://erwanlouveau.github.io/mypkgr/reference/mydmvnorm.md)
   : mydmvnorm
 - [`plot(`*`<mvnpdf>`*`)`](https://erwanlouveau.github.io/mypkgr/reference/plot.mvnpdf.md)
