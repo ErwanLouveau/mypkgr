@@ -1,6 +1,6 @@
 Package: mypkgr
 Title: mypkgr
-Version: 0.1.0.910
+Version: 0.1.0.912
 Authors@R: 
     person("Erwan", "Louveau", , "erwan.louveau@u-bordeaux.fr", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
